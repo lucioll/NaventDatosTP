@@ -1,0 +1,31 @@
+Preguntas:
+
+Edu y GenYEdad
+Merge de postulantes -> relacion sexo con nombre(educacion)
+Merge de postulantes -> relacion fechanacimiento(Edad) con nombre(educacion)
+	A partir de esto -> Postulantes mas recomendados? 
+			    Onda con prejuicio: menor edad y mayor educacion
+			    (un viejito podria ser crack)
+Postulantes por edad? Hay mas viejitos de los que pensamos? O son todos jovenes?
+
+Vistas
+@@@¿Avisos con mas vistas?@@@
+@@@¿Postulantes que mas visitaron?@@@
+@@@¿Vistas a traves de los años?@@@
+
+Postulaciones
+¿Cantidad de postulaciones por postulante?
+¿Fecha con mas postulaciones?
+@@@¿Avisos con mas postulantes?@@@
+@@@¿Postulaciones a traves de los años?@@@
+
+Avisos detalle
+¿Empresa que mas avisos puso?
+¿Cantidad de avisos por area o nivel_laboral o zona o trabajo?
+¿Cantidad de datos sin ciudad o mapacalle?
+@@@Algo parecido a lo del TP anterior con Spark de las descripciones@@@
+@@@Algo parecido a lo del TP anterior con Spark de los titulos@@@
+¿Se escapó algun anuncio de otro pais? (IDPAIS)
+¿Se escapó algun area de otro pais?
+Relacion empresa con zonas en las que trabajan (quizas un cloropleth)
+Relacion areas con zonas en las que se trabajan (quizas un cloropleth)
