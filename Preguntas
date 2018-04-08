@@ -26,8 +26,8 @@ Avisos detalle
 ¿Empresa que mas avisos puso?
 ¿Cantidad de avisos por area o nivel_laboral o zona o trabajo?
 ¿Cantidad de datos sin ciudad o mapacalle?
-@@@Algo parecido a lo del TP anterior con Spark de las descripciones@@@
-@@@Algo parecido a lo del TP anterior con Spark de los titulos@@@
+@@@Algo parecido a lo del TP anterior con Spark de las descripciones@@@ //Descripciones barderas con mucha basura voy a ver si puedo limpiar
+@@@Algo parecido a lo del TP anterior con Spark de los titulos@@@ COMPLETE
 ¿Se escapó algun anuncio de otro pais? (IDPAIS)
 ¿Se escapó algun area de otro pais?
 Relacion empresa con zonas en las que trabajan (quizas un cloropleth)
