@@ -9,13 +9,13 @@ Merge de postulantes -> relacion fechanacimiento(Edad) con nombre(educacion) COM
 Postulantes por edad? Hay mas viejitos de los que pensamos? O son todos jovenes? COMPLETE
 
 Vistas
-@@@¿Avisos con mas vistas?@@@  
+@@@¿Avisos con mas vistas?@@@  //COMPLETED PARCIALMENTE, cambiar idaviso por algo?
 @@@¿Postulantes que mas visitaron?@@@ //Mmm este y el de arriba no se si dice mucho,lo probe y medio que queda feo porque los avisos y postulantes son ids jaja... Por ahi la vuelta esta en los avisos detalle, hacer que tipo de trabajo (nombre_area) es el mas visitado 
-@@@¿Vistas a traves de los años?@@@ //No hay añoss no podemo 
+//COMPLETED PARCIALMENTE, cambiar idpostulante por algo?
+¿Vistas segun hora del dia?//COMPLETED
 
 Postulaciones
 ¿Cantidad de postulaciones por postulante? //COMPLETED PARCIALMENTE, cambiar idpostulante por algo?
-¿Fecha con mas postulaciones?
 @@@¿Avisos con mas postulantes?@@@ //COMPLETED PARCIALMENTE, cambiar idaviso por algo?
 @@@¿Postulaciones a traves de los años?@@@ //DATOS CHOTOS NO SIRVE ESTO
 ¿Publicaciones segun hora del dia? //COMPLETED
