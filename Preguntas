@@ -23,17 +23,9 @@ Postulaciones
 ¿Publicaciones segun dia de la semana? //COMPLETED
 
 Avisos detalle
-<<<<<<< HEAD
-¿Empresa que mas avisos puso? //COMPLETE
-¿Cantidad de avisos por area o nivel_laboral o zona o trabajo? //COMPLETE MENOS ZONA
-¿Cantidad de datos sin ciudad o mapacalle? //DATOS CHOTOS
-@@@Algo parecido a lo del TP anterior con Spark de las descripciones@@@ //COMPLETE PARCIALMENTE
-=======
 ¿Empresa que mas avisos puso? //COMPLETED
 ¿Cantidad de avisos por area o nivel_laboral o zona o trabajo? //COMPLETED MENOS ZONA
 ¿Cantidad de datos sin ciudad o mapacalle?
-@@@Algo parecido a lo del TP anterior con Spark de las descripciones@@@ //Descripciones barderas con mucha basura voy a ver si puedo limpiar
->>>>>>> 1c2d9e55e809b2e0deab0d9b6e9e332b10170995
 @@@Algo parecido a lo del TP anterior con Spark de los titulos@@@ COMPLETE
 Relacion empresa con zonas en las que trabajan (quizas un cloropleth)
 Relacion areas con zonas en las que se trabajan (quizas un cloropleth)
@@ -57,7 +49,5 @@ Analizar palabras en titulos y descripcion en relacion a las vistas y edades
 ¿Ofrecen cobertura medica?
 
 // Tirar palos acerca del dataset
-
-
 
 Relacion entre nivel de estudios de postulantes y de avisos
