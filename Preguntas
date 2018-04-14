@@ -33,7 +33,7 @@ Relacion areas con zonas en las que se trabajan (quizas un cloropleth)
 
 AL RESCATE
 Rescatar zonas de la descripcion
-Rescatar requisitos(sexo, edad, experiencia, idiomas)
+Rescatar requisitos(sexo, edad, experiencia, idiomas) //COMPLETED IDIOMAS
 Rescatar turnos (horario dias)
 Rescatar denominacion empresa
 Rescatar telefonos (cantidad de empresas que dejan)
