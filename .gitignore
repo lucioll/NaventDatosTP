@@ -10,3 +10,15 @@ fiuba_4_postulaciones\.csv
 fiuba_5_avisos_online\.csv
 
 fiuba_6_avisos_detalle\.csv
+
+Data/Avisos-Detalle/
+
+Data/Avisos-Online/
+
+Data/Postulaciones/
+
+Data/Postulantes-Educacion/
+
+Data/Postulantes-Genero-Edad/
+
+Data/Vistas/
