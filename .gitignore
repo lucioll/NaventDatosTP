@@ -36,3 +36,19 @@ Data/postulantes_genero_y_edad-merge\.csv
 Data/Vistas-merge-reduced\.csv
 
 Data/Vistas-merge\.csv
+
+Data/\.ipynb_checkpoints/Avisos-Detalle-merge-checkpoint\.csv
+
+Data/\.ipynb_checkpoints/postulantes_genero_y_edad-merge-checkpoint\.csv
+
+Data/\.ipynb_checkpoints/test_final_100k-checkpoint\.csv
+
+Data/optimized_avisos_detalle\.csv
+
+Data/optimized_postulantes_merge\.csv
+
+Data/unique_postulantes_con_intereses_postulaciones\.csv
+
+Data/unique_postulantes_con_intereses_vistas\.csv
+
+Data/unique_postulantes_con_intereses_vistas2\.csv

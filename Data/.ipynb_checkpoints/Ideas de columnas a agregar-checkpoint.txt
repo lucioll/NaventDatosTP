@@ -1,0 +1,9 @@
+Columnas a agregar al dataset de entrenamiento:
+	* Cantidad de visitas a un aviso
+	* Cantidad de visitas a un aviso por postulante
+	* Cantidad de visitas realizadas a cualquier aviso por postulante 
+	* Cantidad de postulaciones que realizo un postulante LISTO
+	* Si el aviso esta online o no (creo que es alpedo esto)
+	* Tipos de aviso que le interesan a un postulante (considerando lo que se postula y lo que visita) los de visitados demora demasiado por la cantidad de registros
+
+Ver correlaciones entre columnas como en el tp del cuatri anterior
