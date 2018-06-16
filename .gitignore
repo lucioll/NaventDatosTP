@@ -58,3 +58,7 @@ Data/PostMasVistas/postulaciones_mas_vistas\.csv
 Data/postulaciones_mas_vistas_sin_nan\.csv
 
 Data/POSTULANTES_FINAL\.csv
+
+TestingSets/
+
+Data/trainingSet\.csv
