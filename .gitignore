@@ -64,3 +64,5 @@ TestingSets/
 Data/trainingSet\.csv
 
 Data/postulaciones_limpias2\.csv
+
+*.csv
